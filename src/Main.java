@@ -5,6 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
+        //Створює змінну z1
         double z1;
         double z2;
         System.out.println("Введіть значення x: ");

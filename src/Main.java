@@ -6,6 +6,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         double z1;
+        //Створює змінну z2
         double z2;
         System.out.println("Введіть значення x: ");
         double x = scan.nextInt();
